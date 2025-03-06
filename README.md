@@ -7,9 +7,7 @@
         <caption><b>Input Marks</b></caption>
         <tr>
             <th rowspan="2">Name</th>
-            <h1>pratyush
-                
-            </h1>
+            
             <th colspan="5">Score</th>
 
         </tr>
